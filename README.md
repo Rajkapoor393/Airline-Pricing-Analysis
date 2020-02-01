@@ -1,2 +1,2 @@
 # Airline-Pricing-Analysis
-ANALYSIS OF THE FACTORS THAT LEAD TO THE DIFFERENCE BETWEEN PREMIUM ECONOMY AND ECONOMY TICKETS IN AIRLINE INDUSTRY
+- Analysis of the factors that lead to the difference between premium economy and economy tickets in airline industry.
